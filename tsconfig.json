@@ -6,7 +6,7 @@
     "checkJs": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-    "importsNotUsedAsValues": "error",
+    "verbatimModuleSyntax": "boolean",
     "isolatedModules": true,
     "jsx": "preserve",
     "jsxFactory": "h",
