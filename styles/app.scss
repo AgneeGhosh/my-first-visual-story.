@@ -63,3 +63,13 @@ p {
       color: white;
     }
 }
+.graphics-container {
+    display: flex;
+    justify-content: space-between;
+    .graphic {
+      flex: 0 1 48%;
+      iframe {
+        min-height: 360px;
+      }
+    }
+  }
